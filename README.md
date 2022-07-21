@@ -22,6 +22,8 @@ I like to think about myself as a very curious and driven person who loves to ta
 ![icons8-javascript](https://user-images.githubusercontent.com/70711596/180108380-ba286d79-d8df-453f-a860-db917e9207b0.svg)
 ![icons8-nodejs-96](https://user-images.githubusercontent.com/70711596/180108774-72f5539a-2720-4ca2-b9a8-4ae091f8e283.svg)
 ![icons8-react-native](https://user-images.githubusercontent.com/70711596/180109777-8a051cf2-3a22-4430-97c6-e34148261c63.svg)
+![amazon-web-services-2](https://user-images.githubusercontent.com/70711596/180261546-f33170ab-20cd-42e6-92b3-ab5cf695cc80.svg)
+
 
 ### Contacts:
 
