@@ -27,8 +27,6 @@ I like to think about myself as a very curious and driven person who loves to ta
 
 ### Contacts:
 
-+351 924 469 387
-
 luiz.contes@hotmail.com
 
 https://www.linkedin.com/in/luizcontes/
