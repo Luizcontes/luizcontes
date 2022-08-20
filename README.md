@@ -3,11 +3,11 @@
 
 After participating in a bootcamp which introduced me to information technology I got interested in a JavaScript Fullstack developer role. Since the beginning of 2022 I`ve been mainly studying JavaScript as my core tecnology, and now I am mastering in deepth some libraries wich will help me to improve my skills as a fullstack developer such as:
 
-`NodeJs - React - Express - Axios - PWT - Joi - Eslint`
+`NodeJs - React - Express - Axios - JWT`
 
 Some of other technologies I am focused on:
 
-`MongoDB - Kubernetes - Docker - AWS`
+`GIT - PostgreSQL - MongoDB - Docker`
 
 I have some years of working experience in other fields which makes me good at problem solving, business oriented and excel in team environment, part os this experienced envolved managing my own bussines and having to make decisions for the best of this endeavour, main challenges I embraced:
 
